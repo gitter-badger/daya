@@ -1,5 +1,7 @@
 # Daya
 
+[![Join the chat at https://gitter.im/DayaCoin/daya](https://badges.gitter.im/DayaCoin/daya.svg)](https://gitter.im/DayaCoin/daya?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Daya is a next generation crypto-currency and decentralized application platform, written entirely in JavaScript. For more information please refer to our website: https://lisk.io/.
 
 ## Installation
